@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9866964b-8131-4a3e-bae1-0606b7a1fe64" name="Changes" comment="Initial NextJs implementation">
+      <change afterPath="$PROJECT_DIR$/.idea/Hoppful.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/app/head.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/app/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/app/page.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/pages/api/hello.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/public/hoppful_logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/public/hoppful_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/public/hoppful_logo_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoppful/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ke1UMPpK5HpmSCCtjhj3iVqyLx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "19.4.0",
+    "javascript.nodejs.core.library.typings.version": "18.11.18",
+    "last_opened_file_path": "C:/Sandbox/Hoppful/hoppful/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/home/beauxjames/.nvm/versions/node/v19.4.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "C:\\Sandbox\\Hoppful\\hoppful\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Sandbox\Hoppful\hoppful\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Sandbox\Hoppful\hoppful\app\login" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9866964b-8131-4a3e-bae1-0606b7a1fe64" name="Changes" comment="" />
+      <created>1674320273797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674320273797</updated>
+      <workItem from="1674320281410" duration="13255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial NextJs implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial NextJs implementation" />
+  </component>
+</project>
