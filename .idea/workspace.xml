@@ -4,31 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9866964b-8131-4a3e-bae1-0606b7a1fe64" name="Changes" comment="Initial NextJs implementation">
-      <change afterPath="$PROJECT_DIR$/.idea/Hoppful.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/app/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/app/head.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/app/login/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/app/page.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/pages/api/hello.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/public/hoppful_logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/public/hoppful_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/public/hoppful_logo_text.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoppful/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="9866964b-8131-4a3e-bae1-0606b7a1fe64" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,14 +67,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674320273797</updated>
-      <workItem from="1674320281410" duration="13255000" />
+      <workItem from="1674320281410" duration="13845000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial NextJs implementation">
+      <created>1674653384419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674653384419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Initial NextJs implementation" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial NextJs implementation" />
   </component>
